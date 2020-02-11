@@ -8,7 +8,7 @@ Minha estratégia de modelagem foi começar por uma análise exploratória dos d
     
 ## Como foi definida a função de custo utilizada?
     
-A função de custo estava definida implícitament pela biblioteca uma vez escolhido o modelo de aprendizado. No caso eu utilizei regressão de ridge, o que implica uma função de custo do tipo diferença RMS penalizada. 
+A função de custo estava definida implícitamente pela biblioteca uma vez escolhido o modelo de aprendizado. No caso eu utilizei regressão de ridge, o que implica uma função de custo do tipo diferença RMS penalizada. 
 
 
 ## Qual foi o critério utilizado para validação do modelo?
